@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "importance": "Low",
+    "title": "Brainstorming",
+    "description": "Brainstorming brings team members' diverse experience into play.",
+    "deadline": "2025-05-12",
+    "status": "To Do"
+  },
+  {
+    "id": 2,
+    "importance": "High",
+    "title": "Research",
+    "description": "User research helps create an optimal product.",
+    "deadline": "2025-05-19",
+    "status": "To Do"
+  },
+  {
+    "id": 3,
+    "importance": "High",
+    "title": "Wireframes",
+    "description": "Low-fidelity wireframes include basic content and visuals.",
+    "deadline": "2025-05-24",
+    "status": "To Do"
+  }
+]
