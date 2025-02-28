@@ -4,7 +4,9 @@ import taskRoutes from "./routes/taskRoutes";
 
 const app = express();
 
-app.use(cors());
+app.use(cors({
+     origin: "https://todo-task-management-frontend.netlify.app/"
+}));
 app.use(express.json());
 
 app.use("/api", taskRoutes);
